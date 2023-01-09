@@ -3,9 +3,11 @@
   <img src="https://i.imgur.com/kQLC7c4.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-# Правила серверу AbsoluteMP
+<h1 align="center">Правила серверу AbsoluteMP</h1>
+
 ___
 
+<span align="center">
 
 ## Зміст
  1. [Осносні положення](#a1)
@@ -13,6 +15,7 @@ ___
  3. [Спілкування](#a3)
  4. [Модератори](#a4)
 
+</span>
 
 <a name="a1"></a>
 ## 1. Осносні положення
