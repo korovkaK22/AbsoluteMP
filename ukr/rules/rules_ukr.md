@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/vpjIYkK.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://i.imgur.com/kQLC7c4.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 # Правила серверу AbsoluteMP
