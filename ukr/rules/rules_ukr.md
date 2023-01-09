@@ -51,9 +51,9 @@ ___
 
 
 - **1.7** Загалом, існує 4 види покарання:
-<span style="color:#09b40b"> Легке </span>, 
-<span style="color:#c98b0e"> Середнє </span>, 
-<span style="color:#cb0d0d"> Тяжке </span>, 
+`<span style="color:#09b40b"> Легке </span>, `
+> <span style="color:#c98b0e"> Середнє </span>, 
+` <span style="color:#cb0d0d"> Тяжке </span>, `
 а також вирішення ситуації RP-моментом при згоді двох сторін конфлікту.
   - <span style="color:#09b40b"> Легке </span>: Кік, мут, 
     усне попередження, (при дозволі модерації) убивство з поверненням речей;
