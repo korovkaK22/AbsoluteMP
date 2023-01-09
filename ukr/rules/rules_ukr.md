@@ -1,4 +1,4 @@
-![](../../../../Desktop/AbsoluteMP wBack.png)
+![](https://i.imgur.com/OcjPuFR.png)
 
 
 # Правила серверу AbsoluteMP
