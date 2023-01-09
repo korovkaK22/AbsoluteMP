@@ -1,4 +1,4 @@
-![](https://i.imgur.com/OcjPuFR.png)
+![](https://i.imgur.com/vpjIYkK.png)
 
 
 # Правила серверу AbsoluteMP
